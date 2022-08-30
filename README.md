@@ -22,3 +22,5 @@ In this repository, I will be adding the progress of my 100 days of code challeg
 
 
 # Day 3
+1. I watched some videos on sass and scss
+2. I continue to work on the Front ed mentor challenge "EasyBank"
